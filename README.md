@@ -30,3 +30,7 @@ O diagrama foi desenvolvido utilizando a ferramenta draw.io e exportado diretame
 ### Monitoramento
 
 - Azure Monitor + Application Insights: observabilidade completa da aplicação e infraestrutura.
+
+## Diagrama
+![diagrama estático](https://github.com/joseluizbpj/XpAquiteturaDeSolucao/blob/main/diagrama.png?raw=true)
+[Página do diagrama](https://joseluizbpj.github.io/XpAquiteturaDeSolucao/)
